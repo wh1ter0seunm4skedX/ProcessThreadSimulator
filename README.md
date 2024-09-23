@@ -1,6 +1,6 @@
 # 🚀 ProcessThreadSimulator
 
-Welcome to **ProcessThreadSimulator**! 🎉 This project is your go-to playground for exploring how operating systems juggle processes and threads. If you've ever wondered how the OS works its magic behind the scenes, this simulator is here to take you on a wild ride through context switching, process management, and more! 🧙‍♂️✨
+This project is your go-to playground for exploring how operating systems juggle processes and threads. If you've ever wondered how the OS works its magic behind the scenes, this simulator is here to take you on a wild ride through context switching, process management, and more! 🧙‍♂️✨
 
 ## 📝 Overview
 
